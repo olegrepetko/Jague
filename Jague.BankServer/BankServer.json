@@ -1,0 +1,12 @@
+{
+  "Network": {
+    "Host": "0.0.0.0",
+    "Port": 22886
+  },
+  "Database": {
+    "Auth": {
+      "ConnectionString": "server=127.0.0.1;port=3306;user=jague;password=jague_password;database=jague",
+      "Provider": "MySql"
+    }
+  }
+}
